@@ -473,7 +473,7 @@ for( int i = 0; i < n; i++ ) {
 
 # -Помощь
 
-[Весь синтаксис **KaTeX**](https://katex.org/docs/supported.html#symbols-and-punctuation), поддерживает весь основной синтаксис [Markdown](https://www.markdownguide.org/basic-syntax/). (Однако, некоторая часть синтаксиса может не работать в контесте)
+[Весь синтаксис **KaTeX**](https://katex.org/docs/supported.html#symbols-and-punctuation). Поддерживает весь основной синтаксис [Markdown](https://www.markdownguide.org/basic-syntax/). (Однако, некоторая часть синтаксиса может не работать в контесте)
 
 Также, в самом редакторе **Markdown + KaTeX** есть краткая напоминалка справа
 
