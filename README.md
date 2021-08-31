@@ -463,15 +463,13 @@ $$\intop_0^1 x^2 dx = \frac{1}{3}$$
 
 # - Добавление текст программного кода
 
-```
-```
+````
 int n = 3;
 for( int i = 0; i < n; i++ ) {
     printf( "number is %d", i );
 }
 
 code for I in list
-```
-``` 
+```` 
 
 
