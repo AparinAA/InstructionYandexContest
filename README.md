@@ -430,7 +430,7 @@ $$\intop_0^1 x^2 dx = \frac{1}{3}$$
 
 ```![alt](pic1.jpg){:style="width: 300px;"}```
 
-![pic1 (1)](https://user-images.githubusercontent.com/32280092/131471658-ef9a649f-8f59-4ad9-a254-66168aeacd9e.jpg){:style="width: 300px;"}
+![pic1 (1)](https://user-images.githubusercontent.com/32280092/131471658-ef9a649f-8f59-4ad9-a254-66168aeacd9e.jpg)
 
 Для этого нужно загрузить картинку в корневую директорию задачи (раздел **Файлы**)
 
@@ -471,4 +471,6 @@ for( int i = 0; i < n; i++ ) {
 }
 ```` 
 
+Также, в самом редакторе **Markdown + KaTeX** есть краткая напоминалка справа
 
+![зшс4](https://user-images.githubusercontent.com/32280092/131474534-588116f0-b421-4ed9-9de2-6d3d31b555ad.png)
