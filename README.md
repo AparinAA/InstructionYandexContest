@@ -412,15 +412,8 @@ ______
 $$\intop_0^1 x^2 dx = \frac{1}{3}$$
 ```
 
-***
+![pic3](https://user-images.githubusercontent.com/32280092/131473878-fe2f64aa-97f8-4dfc-b368-92172b9c4e7e.png)
 
-**Строчная формула:**  
-Пусть $\lambda \leq 1$
-
-**Большая формула:**
-$$\intop_0^1 x^2 dx = \frac{1}{3}$$
-
-***
 
 
 # -Добавление ссылок
